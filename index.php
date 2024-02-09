@@ -5,46 +5,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sign in</title>
-  <style>
-    .bg-body{
-      background-color: #f0f2f5;
-    }
-    .first{
-      padding-left: 33%;
-    }
-    .text-blue{
-      color: #1877f2; font-size: 55px;font-weight: 700;
-    }
-    .text-black{
-      color: 1c1e21;font-size: 27px; line-height: 28px;
-    }
-    .second{
-      padding-left: 7%;
-    }
-    .btn-blue{
-      background: #1877f2; color: white;
-    }
-    .pass{
-      color: #1877f2; font-size:  13.5px;
-    }
-    .px-btn{
-      padding: 0 22%;
-    }
-    .card{
-      box-shadow: 0px 0px 12px 3px rgba(0, 0, 0, 0.2);
-    }
-    .form-control{
-      height: 52px;
-    }
-    ::placeholder{
-      padding-left: 3px;
-    }
-    .btn-green{
-      background: 42b72a; color: white; padding: 12px 25px;
-    }
-  </style>
+  
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body class="bg-body">
@@ -77,6 +41,7 @@
             </div>
             </div>
           </div>
+          
         </div>
       </div>
     </div>

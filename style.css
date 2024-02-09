@@ -1,0 +1,40 @@
+
+    .bg-body{
+      background-color: #f0f2f5;
+    }
+    .first{
+      padding-left: 33%;
+    }
+    .text-blue{
+      color: #1877f2; font-size: 55px;font-weight: 700;
+    }
+    
+    .text-black{
+      color: 1c1e21;font-size: 27px; line-height: 28px;
+    }
+    .second{
+      padding-left: 7%;
+    }
+    .card-body .btn-blue{
+      background: #1877f2; color: white;
+    }
+    .pass{
+      color: #1877f2; font-size:  13.5px;
+    }
+    .px-btn{
+      padding: 0 22%;
+    }
+    .card{
+      box-shadow: 0px 0px 12px 3px rgba(0, 0, 0, 0.2);
+    }
+    .form-control{
+      height: 52px;
+    }
+    ::placeholder{
+      padding-left: 3px;
+    }
+    .card-body .btn-green{
+      background: #42b72a; color: white;
+      
+    }
+ 
